@@ -6,7 +6,7 @@ The file "ImputationCode parallel def.R" contains the code for (mass) imputing c
 
 This code has been parallelized in order to speed up the simulation study.
 
-The file "Calculate quality measures def.R" contain R code for calculating quality measures. This code has been used for a simulation study.
+The file "Calculate quality measures def.R" contains R code for calculating quality measures. This code has been used for a simulation study.
 
 For more information about the developed methodology and the simulation study, see the final deliverable of the project: "Multivariate Mass Imputation for the Population Census Given Known Totals - Deliverable 3: Final results". 
 
